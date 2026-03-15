@@ -2,7 +2,7 @@
 
 Project: Math Tools
 Start Date: February 15
-Current Date: March 1
+Current Date: March 15
 
 ---
 
@@ -20,3 +20,11 @@ Current Date: March 1
 
 ### v1
 - Matrix: REF only (`math_tools/v1/matrix_solver_v1.py`)
+- Revolution: Disk method around x-axis (`math_tools/v1/revolution_visualizer_v1.py`)
+
+---
+
+## March 15 - Visualizer Prototype
+- Built the first 3D plotting flow.
+- Tested function input/evaluation and graph rendering.
+- Validated basic behavior on sample functions.
