@@ -2,7 +2,7 @@
 
 Project: Math Tools
 Start Date: February 15
-Current Date: March 15
+Current Date: March 29
 
 ---
 
@@ -28,3 +28,14 @@ Current Date: March 15
 - Built the first 3D plotting flow.
 - Tested function input/evaluation and graph rendering.
 - Validated basic behavior on sample functions.
+
+---
+
+## March 29 - v2 Milestone
+- Added RREF to the matrix side.
+- Added washer method to the revolution side.
+- Improved prompts and input validation.
+
+### v2
+- Matrix: REF + RREF (`math_tools/v2/matrix_solver_v2.py`)
+- Revolution: Disk + Washer around x-axis (`math_tools/v2/revolution_visualizer_v2.py`)
