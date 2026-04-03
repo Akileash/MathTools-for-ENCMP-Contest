@@ -2,7 +2,7 @@
 
 Project: Math Tools
 Start Date: February 15
-Current Date: March 29
+Current Date: April 3
 
 ---
 
@@ -39,3 +39,15 @@ Current Date: March 29
 ### v2
 - Matrix: REF + RREF (`math_tools/v2/matrix_solver_v2.py`)
 - Revolution: Disk + Washer around x-axis (`math_tools/v2/revolution_visualizer_v2.py`)
+
+---
+
+## April 3 - Final Version
+- Final matrix solver uses exact fractions and includes solving/inverse checks.
+- Final revolution visualizer supports disk/washer with axis options (`x-axis`, `y-axis`, `x=c`, `y=c`).
+- Added unified final launcher and synced docs.
+
+### final
+- `math_tools/main_final.py`
+- `math_tools/matrix_solver.py`
+- `math_tools/revolution_visualizer.py`
